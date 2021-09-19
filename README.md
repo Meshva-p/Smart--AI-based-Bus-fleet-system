@@ -1,4 +1,4 @@
-# Smart-Bus-fleet-system
+# Smart-AI based-Bus-fleet-system
 
 AI based passenger counting bus system that can be deployed on installed cameras in the fleet. 
 
